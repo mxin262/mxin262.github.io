@@ -32,51 +32,43 @@ Refer to my [Google Scholar](https://scholar.google.cz/citations?user=0pZKNz8AAA
 
 * **SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting**.  
 **Mingxin Huang**, Dezhi Peng, Hongliang Li, Zhenghao Peng, Chongyu Liu, Dahua Lin, Yuliang Liu, Xiang Bai, Lianwen Jin.      
-**IJCV 2025**.    
-[[**Paper**]](https://link.springer.com/article/10.1007/s11263-025-02428-0)
-*Proposed recognition alignment mechanism to solve feature misalignment problem.*
+IJCV 2025.    
+[[**Paper**]](https://link.springer.com/article/10.1007/s11263-025-02428-0)[[**Code**]](https://github.com/mxin262/SwinTextSpotterv2)
 
 * **Mini-Monkey: Alleviating the Semantic Sawtooth Effect for Lightweight MLLMs via Complementary Image Pyramid**.  
 **Mingxin Huang**, Yuliang Liu, Dingkang Liang, Lianwen Jin, Xiang Bai.      
 **ICLR 2025**.    
-[[**Paper**]](https://openreview.net/pdf?id=71XtUhazG0)
-*2B parameter model outperforms 8B models on OCRBench.*
+[[**Paper**]](https://openreview.net/pdf?id=71XtUhazG0)[[**Code**]](https://github.com/Yuliang-Liu/Monkey)
 
 * **Bridging the Gap Between End-to-End and Two-Step Text Spotting**.  
 **Mingxin Huang**, Hongliang Li, Yuliang Liu, Xiang Bai, Lianwen Jin.      
 **CVPR 2024**.    
-[[**Paper**]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Bridging_the_Gap_Between_End-to-End_and_Two-Step_Text_Spotting_CVPR_2024_paper.pdf)  
-*Proposed "bridging text recognition" paradigm, applied in Recraft's AI image generation product.*
+[[**Paper**]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Bridging_the_Gap_Between_End-to-End_and_Two-Step_Text_Spotting_CVPR_2024_paper.pdf)[[**Code**]](https://github.com/mxin262/Bridging-Text-Spotting)
 
 * **ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer**.  
 **Mingxin Huang**, Jiaxin Zhang, Dezhi Peng, Hao Lu, Can Huang, Yuliang Liu, Xiang Bai, Lianwen Jin.      
 **ICCV 2023**.    
-[[**Paper**]](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_ESTextSpotter_Towards_Better_Scene_Text_Spotting_with_Explicit_Synergy_in_ICCV_2023_paper.pdf)  
-*Unified detection and recognition with a single decoder for explicit synergy in Transformer.*
+[[**Paper**]](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_ESTextSpotter_Towards_Better_Scene_Text_Spotting_with_Explicit_Synergy_in_ICCV_2023_paper.pdf)[[**Code**]](https://github.com/mxin262/ESTextSpotter)  
 
 * **SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition**.  
 **Mingxin Huang**, Yuliang Liu, Zhenghao Peng, Chongyu Liu, Dahua Lin, Shenggao Zhu, Nicholas Yuan, Kai Ding, Lianwen Jin.      
 **CVPR 2022**.    
-[[**Paper**]](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_SwinTextSpotter_Scene_Text_Spotting_via_Better_Synergy_Between_Text_Detection_CVPR_2022_paper.pdf)
-*excellent performance on curved text without character-level annotations or correction modules.*
+[[**Paper**]](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_SwinTextSpotter_Scene_Text_Spotting_via_Better_Synergy_Between_Text_Detection_CVPR_2022_paper.pdf)[[**Code**]](https://github.com/mxin262/SwinTextSpotter)
 
 * **OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning**.  
 **Mingxin Huang**, Yongxin Shi, Dezhi Peng, Songxuan Lai, Zecheng Xie, Lianwen Jin.     
 **arXiv 2025**.    
-[[**Paper**]](https://arxiv.org/pdf/2505.17163?)
-*Evaluation of Reasoning Capabilities of MLLMs in Text-rich Scenarios.*
+[[**Paper**]](https://arxiv.org/pdf/2505.17163?)[[**Code**]](https://github.com/SCUT-DLVCLab/OCR-Reasoning)
 
 * **VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**.  
 Yuliang Liu, **Mingxin Huang**, Hao Yan, Linger Deng, Weijia Wu, Hao Lu, Chunhua Shen, Lianwen Jin, Xiang Bai.      
 **TPAMI 2025**.    
-[[**Paper**]](https://ieeexplore.ieee.org/abstract/document/10840310)  
-*Unified model for image and video text spotting with efficient parameter expansion.*
+[[**Paper**]](https://ieeexplore.ieee.org/abstract/document/10840310)[[**Code**]](https://github.com/Yuliang-Liu/VimTS)
 
 * **OCRBench: On the Hidden Mystery of OCR in Large Multimodal Models**.  
 Yuliang Liu, Zhang Li, **Mingxin Huang**, Biao Yang, Wenwen Yu, Chunyuan Li, XuCheng Yin, ChengLin Liu, Lianwen Jin, Xiang Bai.      
 **SCIS 2024**.    
-[[**Paper**]](https://link.springer.com/article/10.1007/s11432-024-4235-6)
-*OCR Benchmark for Comprehensive Evaluation of Multimodal Large Models*
+[[**Paper**]](https://link.springer.com/article/10.1007/s11432-024-4235-6)[[**Code**]](https://github.com/Yuliang-Liu/MultimodalOCR)
 
 
 # 📚 Academic Services

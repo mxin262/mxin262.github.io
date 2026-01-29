@@ -30,6 +30,11 @@ I am actively seeking research positions in both industry and academia. My prima
 # 📝 Selected Works
 Refer to my [Google Scholar](https://scholar.google.cz/citations?user=0pZKNz8AAAAJ&hl=zh-CN) for the full list.
 
+* **OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning**.  
+**Mingxin Huang**, Yongxin Shi, Dezhi Peng, Songxuan Lai, Zecheng Xie, Lianwen Jin .      
+ICLR 2026.    
+[[**Paper**]](https://openreview.net/pdf?id=aH7eyx64pC)[[**Code**]](https://github.com/SCUT-DLVCLab/OCR-Reasoning)
+
 * **SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting**.  
 **Mingxin Huang**, Dezhi Peng, Hongliang Li, Zhenghao Peng, Chongyu Liu, Dahua Lin, Yuliang Liu, Xiang Bai, Lianwen Jin.      
 IJCV 2025.    

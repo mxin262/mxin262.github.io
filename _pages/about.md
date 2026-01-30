@@ -60,11 +60,6 @@ ICCV 2023.
 CVPR 2022.    
 [[**Paper**]](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_SwinTextSpotter_Scene_Text_Spotting_via_Better_Synergy_Between_Text_Detection_CVPR_2022_paper.pdf)[[**Code**]](https://github.com/mxin262/SwinTextSpotter)
 
-* **OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning**.  
-**Mingxin Huang**, Yongxin Shi, Dezhi Peng, Songxuan Lai, Zecheng Xie, Lianwen Jin.     
-arXiv 2025.    
-[[**Paper**]](https://arxiv.org/pdf/2505.17163?)[[**Code**]](https://github.com/SCUT-DLVCLab/OCR-Reasoning)
-
 * **VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**.  
 Yuliang Liu, **Mingxin Huang**, Hao Yan, Linger Deng, Weijia Wu, Hao Lu, Chunhua Shen, Lianwen Jin, Xiang Bai.      
 TPAMI 2025.    

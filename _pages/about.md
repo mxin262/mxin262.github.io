@@ -10,6 +10,8 @@ redirect_from:
 
 I'm a final-year PhD student at [DLVCLab](https://github.com/SCUT-DLVCLab), [South China University of Technology](https://www.scut.edu.cn/en/), co-supervised by Prof. [Lianwen Jin](http://www.dlvc-lab.net/lianwen) and Prof. [Yuliang Liu](http://faculty.hust.edu.cn/liuyuliang/zh_CN/index.htm). I was fortunate to work with  Prof. [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ). Previously, I obtained my bachelor’s degree in Computer Science and Technology, South China University of Science and Technology. 
 
+I have interned at [ByteDance Seed](https://seed.bytedance.com/en/?view_from=homepage_tab) and [Baidu](https://home.baidu.com).
+
 I am actively seeking research positions in both industry and academia. My primary research focuses on the training and evaluation of multimodal large language models and document intelligent.
 
 # Research Highlights
